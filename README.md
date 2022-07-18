@@ -11,10 +11,11 @@ After you run files app for the first time, `config` file `_files/config/config.
 
 // Uncomment the parameters you want to edit.
 return array (
-  //'root' => '',
-  //'start_path' => false,
-  //'username' => '',
-  //'password' => '',
+    'root' => '',
+    'start_path' => '',
+    'username' => 'cp',
+    // MD5: $2y$10$xK/.WYiTSn0bwaPrPDmX0.umv0byR/y.kOk7tY0BK0J/rF8PT7wNe
+    // 'password' => '',
   //'load_images' => true,
   //'load_files_proxy_php' => false,
   //'load_images_max_filesize' => 1000000,
